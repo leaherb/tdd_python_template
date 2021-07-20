@@ -1,7 +1,7 @@
 # tdd_python_template
 
 ## Template Project Structure
-
+```bash
 ├── project
 │   ├── __init__.py
 │   └── module_1.py
@@ -12,3 +12,4 @@
     └── test_module_1
         ├── __init__.py
         └── test_something.py
+```
