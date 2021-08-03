@@ -21,6 +21,7 @@ This repository contains:
 
 Run automated tests:
 
-```pytest -v -s
+```sh
+$ pytest -v -s
 # Prints output from pytest
 ```
